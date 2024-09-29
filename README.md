@@ -1,15 +1,30 @@
-![](http://i.imgur.com/d0WX8Tv.png)
 
 
-# Overview
+Installation steps:
+need python3
+git clone 
+cd Reversehell
 
-This is a multi-client, multi-threaded reverse shell written in Python. There is still a lot of work to do, so feel free to help out with development.
+Setup process...
 
-To learn more about this program, watch the [YouTube Python Reverse Shell Tutorial Series](https://www.youtube.com/watch?v=1ObzpG_W_0o&list=PL6gx4Cwl9DGCbpkBEMiCaiu_3OL-_Bz_8&index=1)
+First we need to change the server ip address for our system ip address
 
-Disclaimer: This reverse shell should only be used in the lawful, remote administration of authorized systems. Accessing a computer network without authorization or permission is illegal. 
+**use to run nano server.py ---> change the ip address
+After to change the client.py ip address client ip adderss is to give attacker ip address (it means what ip address to give server ip addres to give same ip address for client)
 
-# How to Use
+**use nano client.py ---> change the ip address
+
+After first run the server file
+use this command
+python3 server.py
+
+After run the client file
+use this command
+python3 client.py
+
+
+
+//# How to Use
 
 To use this reverse shell, two scripts need to be running
 
