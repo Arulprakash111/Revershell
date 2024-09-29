@@ -2,8 +2,8 @@
 
 Installation steps:
 need python3
-git clone 
-cd Reversehell
+* **git clone https://github.com/Arulprakash111/Revershell.git
+* **cd Reversehell
 
 Setup process...
 
