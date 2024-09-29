@@ -16,11 +16,11 @@ After to change the client.py ip address client ip adderss is to give attacker i
 
 After first run the server file
 use this command
-python3 server.py
+* **python3 server.py
 
 After run the client file
 use this command
-python3 client.py
+* **python3 client.py
 
 
 
